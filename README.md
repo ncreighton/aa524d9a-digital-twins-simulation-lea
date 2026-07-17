@@ -1,2 +1,28 @@
-# aa524d9a-digital-twins-simulation-lea
-What if add powerful functionality to WordPress without writing code took minutes instead of hours?  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Digital Twins &amp; Simulation Lead Generation Form Builder — fully configured and ready to use - Clean admin
+# Digital Twins & Simulation Lead Generation Form Builder WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu4gz7r10bWg88avOcZN1o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu4gz7r10bWg88avOcZN1o)
+
